@@ -7,8 +7,8 @@
 ```
 git clone https://github.com/berkantrl/SQL_Injection_Scanner.git
 ```
-```
 ### Dependencies
+```
 - bs4 
 - requests
 - argparse
